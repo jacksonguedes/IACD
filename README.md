@@ -1,2 +1,2 @@
-# IACD
-Aula02 - Inteligência Artificial e Ciência de Dados aplicados a Sistemas Elétricos.
+# IADS
+Códigos das aulas da disciplina Inteligência Artificial e Ciência de Dados aplicados a Sistemas Elétricos.
